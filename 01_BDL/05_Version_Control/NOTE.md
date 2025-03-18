@@ -19,3 +19,5 @@
 - Jetzt sind die Dateien bereit, committed zu werden.
   - Alle Dateien, die sich im `staged` Bereich befinden
   - `git commit -m ""`
+
+> Commit = Sammlung von Änderungen die bereit sind
