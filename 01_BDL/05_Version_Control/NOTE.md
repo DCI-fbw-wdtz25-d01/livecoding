@@ -15,6 +15,8 @@
   - `git --version`
 - Den Status der `staged` Dateien einsehen
   - `git status`
+- Unterschiede in den Änderungen
+  - `git diff`
 - Initialisierung eines git-Projekts
   - `git init`
 - Dateien sind zuerst in einem nicht erfassten Zustand = `untracked` vorgemerkt werden
@@ -27,5 +29,7 @@
 - Klonen eines Git-Repositories
   - `git clone <git-repository>`
   - Das Repository ist in einer Cloud gespeichert
+- Änderungen hochladen
+  - `git push`
 
 > Commit = Sammlung von Änderungen die bereit sind
