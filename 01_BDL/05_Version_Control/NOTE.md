@@ -32,5 +32,11 @@
   - Das Repository ist in einer Cloud gespeichert
 - Änderungen hochladen
   - `git push`
+- Änderungen herunterladen
+  - `git pull`
+  - Das Repository muss in einem sauberen Zustand vorhanden sein
+    - Offene Änderungen müssen entweder committed oder gestashed werden oder ungewollte Änderungen müssen zurückgesetzt werden
+- Alle Dateien werden in den Ursprungszustand zurückgesetzt
+  - `git restore .`
 
 > Commit = Sammlung von Änderungen die bereit sind
