@@ -26,6 +26,7 @@
 - Jetzt sind die Dateien bereit, committed zu werden.
   - Alle Dateien, die sich im `staged` Bereich befinden
   - `git commit -m ""`
+  - Zuerst wird das lokale Repository den Commit speichern
 - Klonen eines Git-Repositories
   - `git clone <git-repository>`
   - Das Repository ist in einer Cloud gespeichert
