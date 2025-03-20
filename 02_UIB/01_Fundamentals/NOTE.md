@@ -20,8 +20,6 @@ lorem ipsum...
 - HTML-Elementen besitzen eine Reihe von Attributen, um das Verhalten oder die Darstellung zu beeinflussen.
   - Standard-Attribute: `class`
 
-
-
 ## Grundstruktur
 
 - `<hmtl>`, ist das Grundgerüst von jeder Webseite
@@ -33,13 +31,14 @@ lorem ipsum...
 
 - p-Tag: Element für Texte, Paragraphen
 - h-Tag Familie: Wird für Überschriften verwendet
-  - `h1`, `h2`, ..., `h6`
+  - `h1`, `h2`, ... , `h6`
 - img-Tag: Einbinden von Bilder
   - `src` = `source`
 
     ```html
     <img class="" src="https://example.com"></img>
     ```
+
 - a-Tag: "anchor"
   - Wird verwendet um auf andere Webseiten zu navigieren
 - footer-Tag
